@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SegundoParcial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="url_texto">URL / Texto</string>
+    <string name="tipo_link">Tipo Link</string>
+    <string name="link">LINK</string>
+    <string name="tel">TELEFONO</string>
+    <string name="guardar_recurso">GUARDAR RECURSO</string>
+    <string-array name="opciones">
+        <item>@string/link</item>
+        <item>@string/tel</item>
+    </string-array>
+</resources>
